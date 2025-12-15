@@ -115,7 +115,7 @@ https://docs.maestro.dev/getting-started/maestro-studio-desktop
 
 ### 基本の流れ
 
-![Maestro Studio画面イメージ](/images/maestro-studio/実装.png)
+![Maestro Studio画面イメージ](/images/maestro-studio/main.png)
 *↑ 実際のMaestro Studio画面（右側の表示されているアプリはサンプル用にAIで作成しました🤖）*
 
 1. **要素をクリック** → アプリ画面上の要素にカーソルを合わせる
@@ -145,23 +145,23 @@ appId: com.example.myapp
 
 メールアドレスやパスワードなど、コードに直接書きたくない情報は環境変数を使いましょう。
 右上の歯車アイコンの**Environment**から設定できます
-![Maestro Studio画面イメージ](/images/maestro-studio/環境.png)
+![Maestro Studio画面イメージ](/images/maestro-studio/environment.png)
 
 ### ▶️ テストの実行方法
 
 #### 方法1: 行指定で実行
 
 各テストコードの左側の実行ボタンを押すと、その行から下のテストが実行されます。
-![Maestro Studio画面イメージ](/images/maestro-studio/行ごと実行.png)
+![Maestro Studio画面イメージ](/images/maestro-studio/row-balk.png)
 
 #### 方法2: ファイルごとに実行
 
 各ファイルの「Run Locally」もしくはサイドバーディレクトリのファイル名左側の再生ボタンをクリックすると、そのファイル全体のテストが実行されます。
-![Maestro Studio画面イメージ](/images/maestro-studio/ファイル一括実行.png)
+![Maestro Studio画面イメージ](/images/maestro-studio/file-balk.png)
 
 #### 方法3: 一括実行
 サイドバー最上部の「Run All Tests」をクリックすると、ディレクトリ内全てのファイルを実行できます。
-![Maestro Studio画面イメージ](/images/maestro-studio/全部一括実行.png)
+![Maestro Studio画面イメージ](/images/maestro-studio/all-balk.png)
 :::message alert
 ※このボタンでは**直下のファイルのみ**実行対象になるため、孫関係にあるようなファイルは読み込んでくれません、、、改善求ム、、、
 :::
@@ -169,7 +169,7 @@ appId: com.example.myapp
 ## チームで実装を進めてみて、、、
 
 学習コストがとにかく低いので、環境構築が完了してからは爆速で実装を進められました！
-QA業務の隙間に2人で実装を進め、約2ヶ月かけて100ケースほど実装できました。
+QA業務の隙間に2人で実装を進め、約1ヶ月かけて100ケースほど実装できました。
 （環境構築は開発エンジニアさんにハンズオンで手伝っていただきました🙌）
 
 また、現状は手動リグレッションテストの際や簡単な健康診断として手動実行しておりますが、ゆくゆくはCI実行なども視野に入れていこうと思います。
