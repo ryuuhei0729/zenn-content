@@ -1,5 +1,5 @@
 ---
-title: "【非エンジニアでも書ける！】Maestro Studio Desktopで爆速モバイルE2Eテスト入門"
+title: "【非エンジニアでも書ける！】Maestro Studio DesktopでモバイルE2Eテストを爆速実装してみた"
 emoji: "🎹"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Maestro", "E2Eテスト", "モバイルアプリ", "QA", "テスト自動化"]
