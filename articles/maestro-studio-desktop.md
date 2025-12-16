@@ -4,6 +4,7 @@ emoji: "🎹"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Maestro", "E2Eテスト", "モバイルアプリ", "QA", "テスト自動化"]
 published: true
+publication_name: globis
 ---
 
 ## はじめに
