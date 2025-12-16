@@ -3,7 +3,7 @@ title: "【非エンジニアでも書ける！】Maestro Studio Desktopで爆�
 emoji: "🎹"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Maestro", "E2Eテスト", "モバイルアプリ", "QA", "テスト自動化"]
-published: false
+published: true
 ---
 
 ## はじめに
