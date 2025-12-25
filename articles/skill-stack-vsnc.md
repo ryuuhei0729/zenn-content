@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "これが最新の技術スタック「VSNC」だ！！！"
 emoji: "📌"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: []
