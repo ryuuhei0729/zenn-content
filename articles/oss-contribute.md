@@ -4,6 +4,7 @@ emoji: "🎉"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["OSS", "GitHub", "Maestro", "QA", "初心者"]
 published: true
+publication_name: "globis"
 ---
 
 ## はじめに
